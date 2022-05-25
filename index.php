@@ -5,7 +5,7 @@
   <body>
     <h1>PHP Test Page</h1>
     <?php
-    echo '<p>This is PHP!</p>';
+    echo '<p>This is PHP! can you see this </p>';
     ?>
   
   </body>
